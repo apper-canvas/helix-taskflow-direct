@@ -1,0 +1,37 @@
+[
+  {
+    "Id": 1,
+    "name": "Work",
+    "color": "text-blue-600",
+    "icon": "Briefcase",
+    "position": 1
+  },
+  {
+    "Id": 2,
+    "name": "Personal",
+    "color": "text-green-600",
+    "icon": "User",
+    "position": 2
+  },
+  {
+    "Id": 3,
+    "name": "Home",
+    "color": "text-orange-600",
+    "icon": "Home",
+    "position": 3
+  },
+  {
+    "Id": 4,
+    "name": "Health",
+    "color": "text-pink-600",
+    "icon": "Heart",
+    "position": 4
+  },
+  {
+    "Id": 5,
+    "name": "Learning",
+    "color": "text-purple-600",
+    "icon": "Book",
+    "position": 5
+  }
+]
