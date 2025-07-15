@@ -3,7 +3,7 @@ import { cn } from "@/utils/cn";
 import TaskItem from "@/components/organisms/TaskItem";
 import TaskCounter from "@/components/molecules/TaskCounter";
 import Empty from "@/components/ui/Empty";
-import ApperIcon from "@/components/ui/ApperIcon";
+import ApperIcon from "@/components/ApperIcon";
 const TaskList = ({ 
   tasks, 
   category,
